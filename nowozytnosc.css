@@ -1,0 +1,23 @@
+body {
+	background-image: url("historia.jpg") ;
+	background-size: 100%;
+	font-family: sans-serif;
+	color: white;
+	}
+	.tytul {
+	background-color: rgba( 100, 100, 100, 0.9);
+	text-align: center;
+	color: rgba( 0, 0, 0, 1);
+	border-style: ridge;
+	border: 5px solid black;
+	}
+	.tekst {
+	background-color: rgba( 100, 100, 100, 0.9);
+	color: rgba( 0, 0, 0, 1);
+	border-style: ridge;
+	border: 5px solid black;
+	 font-size: 20px
+	}
+	.zr {
+		 line-height: 0px;
+		 }
